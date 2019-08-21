@@ -1,0 +1,486 @@
+ARR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u4E0D\u9F50"
+  total_count: 12
+  weight: 4
+BGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u6027\u4E8C\u8054\u5F8B"
+  total_count: 1
+  weight: 9
+LRR:
+  abnormal_type: 1
+  checked_count: 9
+  label: "\u957FRR\u95F4\u6B47"
+  total_count: 32
+  weight: 24
+MAXHR:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 6
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 7
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 914
+  weight: 17
+SC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u623F\u65E9"
+  total_count: 49
+  weight: 19
+STAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u4E0A\u901F"
+  total_count: 19
+  weight: 22
+TAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u901F"
+  total_count: 977
+  weight: 3
+TGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u6027\u4E09\u8054\u5F8B"
+  total_count: 1
+  weight: 10
+V:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 608
+  weight: 1
+VC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u5BA4\u65E9"
+  total_count: 17
+  weight: 7
+VTAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u901F"
+  total_count: 3
+  weight: 15
+---
+ARR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u4E0D\u9F50"
+  total_count: 84
+  weight: 4
+LRR:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u957FRR\u95F4\u6B47"
+  total_count: 1
+  weight: 24
+MAXHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 5
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 5
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 296
+  weight: 17
+SC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u623F\u65E9"
+  total_count: 8
+  weight: 19
+TAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u901F"
+  total_count: 343
+  weight: 3
+V:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 33
+  weight: 1
+---
+AF:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u623F\u98A4"
+  total_count: 2
+  weight: 25
+ARR:
+  abnormal_type: 1
+  checked_count: 2
+  label: "\u7AA6\u4E0D\u9F50"
+  total_count: 2
+  weight: 4
+LRR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u957FRR\u95F4\u6B47"
+  total_count: 6
+  weight: 24
+MAXHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 5
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 5
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 2
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 20
+  weight: 17
+TAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u901F"
+  total_count: 16
+  weight: 3
+V:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 10
+  weight: 1
+---
+CS:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u623F\u65E9"
+  total_count: 8
+  weight: 18
+CV:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u5BA4\u65E9"
+  total_count: 25
+  weight: 8
+MAXHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 5
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 5
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 15
+  weight: 17
+SC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u623F\u65E9"
+  total_count: 1
+  weight: 19
+STAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u4E0A\u901F"
+  total_count: 4
+  weight: 22
+V:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 21
+  weight: 1
+VC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u5BA4\u65E9"
+  total_count: 10
+  weight: 7
+VTAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u901F"
+  total_count: 241
+  weight: 15
+---
+AF:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u623F\u98A4"
+  total_count: 1
+  weight: 25
+CS:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u623F\u65E9"
+  total_count: 63
+  weight: 18
+MAXHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 5
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 5
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 138
+  weight: 17
+SC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u623F\u65E9"
+  total_count: 79
+  weight: 19
+STAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u4E0A\u901F"
+  total_count: 279
+  weight: 22
+TAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u901F"
+  total_count: 74
+  weight: 3
+V:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 15
+  weight: 1
+---
+ARR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u4E0D\u9F50"
+  total_count: 639
+  weight: 4
+BGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u6027\u4E8C\u8054\u5F8B"
+  total_count: 1944
+  weight: 9
+CS:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u623F\u65E9"
+  total_count: 902
+  weight: 18
+CV:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u5BA4\u65E9"
+  total_count: 698
+  weight: 8
+LRR:
+  abnormal_type: 1
+  checked_count: 1
+  label: "\u957FRR\u95F4\u6B47"
+  total_count: 518
+  weight: 24
+MAXHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 5
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 5
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 3373
+  weight: 17
+SBGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u623F\u6027\u4E8C\u8054\u5F8B"
+  total_count: 81
+  weight: 20
+SC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u623F\u65E9"
+  total_count: 1293
+  weight: 19
+STAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u4E0A\u901F"
+  total_count: 1457
+  weight: 22
+STGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u623F\u6027\u4E09\u8054\u5F8B"
+  total_count: 15
+  weight: 21
+TAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u901F"
+  total_count: 627
+  weight: 3
+TGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u6027\u4E09\u8054\u5F8B"
+  total_count: 1575
+  weight: 10
+V:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 18286
+  weight: 1
+VC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u5BA4\u65E9"
+  total_count: 916
+  weight: 7
+VTAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u901F"
+  total_count: 1362
+  weight: 15
+---
+AF:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u623F\u98A4"
+  total_count: 6
+  weight: 25
+ARR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u7AA6\u4E0D\u9F50"
+  total_count: 99
+  weight: 4
+BGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u6027\u4E8C\u8054\u5F8B"
+  total_count: 1
+  weight: 9
+CS:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u623F\u65E9"
+  total_count: 524
+  weight: 18
+CV:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u591A\u53D1\u5BA4\u65E9"
+  total_count: 300
+  weight: 8
+LRR:
+  abnormal_type: 1
+  checked_count: 4
+  label: "\u957FRR\u95F4\u6B47"
+  total_count: 1417
+  weight: 24
+MAXHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u5FEB\u5FC3\u7387"
+  total_count: 5
+  weight: 31
+MINHR:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6700\u6162\u5FC3\u7387"
+  total_count: 5
+  weight: 32
+S:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u623F\u65E9"
+  total_count: 348
+  weight: 17
+SBGM:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u623F\u6027\u4E8C\u8054\u5F8B"
+  total_count: 1
+  weight: 20
+SC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u623F\u65E9"
+  total_count: 73
+  weight: 19
+STAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u4E0A\u901F"
+  total_count: 1518
+  weight: 22
+V:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5355\u4E2A\u5BA4\u65E9"
+  total_count: 342
+  weight: 1
+VC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u6210\u5BF9\u5BA4\u65E9"
+  total_count: 81
+  weight: 7
+VTAC:
+  abnormal_type: 1
+  checked_count: 0
+  label: "\u5BA4\u901F"
+  total_count: 869
+  weight: 15
